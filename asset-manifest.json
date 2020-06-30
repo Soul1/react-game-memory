@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-game-memory/static/css/main.c5077bb0.chunk.css",
+    "main.js": "/react-game-memory/static/js/main.9e22429a.chunk.js",
+    "main.js.map": "/react-game-memory/static/js/main.9e22429a.chunk.js.map",
+    "runtime-main.js": "/react-game-memory/static/js/runtime-main.296c49f7.js",
+    "runtime-main.js.map": "/react-game-memory/static/js/runtime-main.296c49f7.js.map",
+    "static/css/2.8ff17cee.chunk.css": "/react-game-memory/static/css/2.8ff17cee.chunk.css",
+    "static/js/2.4e80c312.chunk.js": "/react-game-memory/static/js/2.4e80c312.chunk.js",
+    "static/js/2.4e80c312.chunk.js.map": "/react-game-memory/static/js/2.4e80c312.chunk.js.map",
+    "index.html": "/react-game-memory/index.html",
+    "precache-manifest.e97c37b3ada20669aa13b256b282a4ee.js": "/react-game-memory/precache-manifest.e97c37b3ada20669aa13b256b282a4ee.js",
+    "service-worker.js": "/react-game-memory/service-worker.js",
+    "static/css/2.8ff17cee.chunk.css.map": "/react-game-memory/static/css/2.8ff17cee.chunk.css.map",
+    "static/css/main.c5077bb0.chunk.css.map": "/react-game-memory/static/css/main.c5077bb0.chunk.css.map",
+    "static/js/2.4e80c312.chunk.js.LICENSE.txt": "/react-game-memory/static/js/2.4e80c312.chunk.js.LICENSE.txt",
+    "static/media/back.svg": "/react-game-memory/static/media/back.33643a13.svg",
+    "static/media/canada.svg": "/react-game-memory/static/media/canada.0e87203b.svg",
+    "static/media/china.svg": "/react-game-memory/static/media/china.6a686ea5.svg",
+    "static/media/france.svg": "/react-game-memory/static/media/france.a2397d31.svg",
+    "static/media/germany.svg": "/react-game-memory/static/media/germany.599e2907.svg",
+    "static/media/italy.svg": "/react-game-memory/static/media/italy.15dd512f.svg",
+    "static/media/russia.svg": "/react-game-memory/static/media/russia.c1b811d0.svg",
+    "static/media/uk.svg": "/react-game-memory/static/media/uk.3e0210d2.svg",
+    "static/media/usa.svg": "/react-game-memory/static/media/usa.4a52512e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296c49f7.js",
+    "static/css/2.8ff17cee.chunk.css",
+    "static/js/2.4e80c312.chunk.js",
+    "static/css/main.c5077bb0.chunk.css",
+    "static/js/main.9e22429a.chunk.js"
+  ]
+}
